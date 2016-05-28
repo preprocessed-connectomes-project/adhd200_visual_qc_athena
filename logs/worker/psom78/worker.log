@@ -1,0 +1,563 @@
+Octave version 3.8.1
+Minc-tool-kit version 0.3.18-20130531
+NIAK quarantine /home/pbellec/git/niak/commands/misc/niak_gb_vars.m
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0020003
+Started on 15-Apr-2016 17:43:45
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0020003_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0020003_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X0020003.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:43:59 : The job was successfully completed
+Total time used to process the job : 13.94 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : report_X0026016
+Started on 15-Apr-2016 17:43:59
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0026016_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0026016_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X0026016.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:44:04 : The job was successfully completed
+Total time used to process the job : 5.04 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X1692275
+Started on 15-Apr-2016 17:44:04
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X1692275_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X1692275_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X1692275.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:44:10 : The job was successfully completed
+Total time used to process the job : 6.19 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : report_X0021036
+Started on 15-Apr-2016 17:44:10
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0021036_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0021036_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X0021036.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:44:15 : The job was successfully completed
+Total time used to process the job : 5.05 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X2570769
+Started on 15-Apr-2016 17:44:15
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X2570769_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X2570769_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X2570769.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:44:20 : The job was successfully completed
+Total time used to process the job : 5.05 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X3433846
+Started on 15-Apr-2016 17:44:21
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X3433846_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X3433846_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X3433846.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:44:29 : The job was successfully completed
+Total time used to process the job : 8.27 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X2961243
+Started on 15-Apr-2016 17:44:29
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X2961243_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X2961243_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X2961243.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:44:34 : The job was successfully completed
+Total time used to process the job : 5.14 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X1108916
+Started on 15-Apr-2016 17:44:34
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X1108916_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X1108916_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X1108916.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:44:42 : The job was successfully completed
+Total time used to process the job : 8.31 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X1947991
+Started on 15-Apr-2016 17:44:42
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X1947991_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X1947991_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X1947991.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:44:50 : The job was successfully completed
+Total time used to process the job : 7.35 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X3239413
+Started on 15-Apr-2016 17:44:50
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X3239413_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X3239413_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X3239413.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:44:56 : The job was successfully completed
+Total time used to process the job : 6.28 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X2659769
+Started on 15-Apr-2016 17:44:56
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X2659769_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X2659769_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X2659769.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:03 : The job was successfully completed
+Total time used to process the job : 7.14 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X7994085
+Started on 15-Apr-2016 17:45:03
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X7994085_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X7994085_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X7994085.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:08 : The job was successfully completed
+Total time used to process the job : 5.17 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0016079
+Started on 15-Apr-2016 17:45:08
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0016079_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0016079_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X0016079.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:14 : The job was successfully completed
+Total time used to process the job : 5.39 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : report_X0015060
+Started on 15-Apr-2016 17:45:14
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+Generating slices of the anatomical scan...
+Generating slices of the functional scan...
+Generating the QC html report...
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0015060_anat.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/summary_X0015060_func.jpg was successfully generated!
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/report_coregister_X0015060.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:19 : The job was successfully completed
+Total time used to process the job : 5.04 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X2104012
+Started on 15-Apr-2016 17:45:19
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X2104012.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:19 : The job was successfully completed
+Total time used to process the job : 0.02 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X0010007
+Started on 15-Apr-2016 17:45:19
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X0010007.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:19 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X0021015
+Started on 15-Apr-2016 17:45:20
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X0021015.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:20 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X0021035
+Started on 15-Apr-2016 17:45:20
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X0021035.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:20 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X1125505
+Started on 15-Apr-2016 17:45:23
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X1125505.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:23 : The job was successfully completed
+Total time used to process the job : 0.02 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X1992284
+Started on 15-Apr-2016 17:45:24
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X1992284.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:24 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X4060823
+Started on 15-Apr-2016 17:45:24
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X4060823.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:24 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X0023018
+Started on 15-Apr-2016 17:45:28
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X0023018.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:28 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X2196753
+Started on 15-Apr-2016 17:45:28
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X2196753.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:28 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X3162671
+Started on 15-Apr-2016 17:45:28
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X3162671.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:28 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X0016031
+Started on 15-Apr-2016 17:45:33
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X0016031.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:33 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X6187322
+Started on 15-Apr-2016 17:45:33
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X6187322.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:33 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : wrapper_X7011503
+Started on 15-Apr-2016 17:45:33
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X7011503.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:33 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.mat' 
+Deleting file '/gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/logs/worker/psom78/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : wrapper_X0015016
+Started on 15-Apr-2016 17:45:38
+User: pbellec
+host : sw-2r12-n61
+system : unix
+******************************
+
+
+The output file or directory /gs/project/gsf-624-aa/adhd200_preproc/athena/qc_report/wrapper_X0015016.html was successfully generated!
+
+*********************************************************
+15-Apr-2016 17:45:38 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+15-Apr-2016 17:45:40 - The manager has requested to end the work asap!
+15-Apr-2016 17:45:40 - The manager has requested to end the work asap!
+
+attempting to save variables to 'octave-workspace'...
